@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cash_Compass.props" />
+</Project>
