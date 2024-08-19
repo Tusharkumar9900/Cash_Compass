@@ -536,3 +536,4 @@ C:\Users\HP\Desktop\Expense Tracker Project C#\Cash_Compass\Cash_Compass\obj\Deb
 C:\Users\HP\Desktop\Expense Tracker Project C#\Cash_Compass\Cash_Compass\obj\Debug\net8.0\ref\Cash_Compass.dll
 C:\Users\HP\Desktop\Expense Tracker Project C#\Cash_Compass\Cash_Compass\bin\Debug\net8.0\Google.Protobuf.dll
 C:\Users\HP\Desktop\Expense Tracker Project C#\Cash_Compass\Cash_Compass\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\HP\Desktop\Expense Tracker Project C#\Cash_Compass\Cash_Compass\obj\Debug\net8.0\Cash_Compass.sourcelink.json
